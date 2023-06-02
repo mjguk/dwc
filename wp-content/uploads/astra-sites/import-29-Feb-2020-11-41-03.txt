@@ -1,0 +1,7 @@
+
+---- Processing WordPress Page - for Gutenberg ---- "1093"
+Source - https://www.dadwhatcooks.com/wp-content/uploads/2020/02/dad-logo-silver-fork.png
+BATCH - SKIP Image - {from filter} - https://www.dadwhatcooks.com/wp-content/uploads/2020/02/dad-logo-silver-fork.png - Filter name `astra_sites_image_importer_skip_image`.
+Source - https://www.dadwhatcooks.com/wp-content/uploads/2020/02/divider-free-img-1.png
+BATCH - SKIP Image - {from filter} - https://www.dadwhatcooks.com/wp-content/uploads/2020/02/divider-free-img-1.png - Filter name `astra_sites_image_importer_skip_image`.
+Complete 

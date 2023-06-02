@@ -1,0 +1,10 @@
+PROCESSED on Fri, 02 Oct 2020 17:02:11 +0000
+/wp-includes/css/dist/block-library/style.min.css
+/wp-content/plugins/ultimate-addons-for-gutenberg/dist/blocks.style.css
+/wp-content/themes/astra/assets/css/minified/style.min.css
+/wp-content/plugins/ultimate-addons-for-gutenberg/assets/css/slick.css
+/wp-content/plugins/convertpro/assets/modules/css/cp-popup.min.css
+/wp-content/plugins/wpforms-lite/assets/css/wpforms-base.min.css
+/wp-content/uploads/astra-addon/astra-addon-5f5a8d826b0083-54034573.css
+/wp-content/themes/astra-child/style.css
+PROCESSED from https://www.dadwhatcooks.com/contact/
